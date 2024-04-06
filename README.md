@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Musa
 
 Porject Musa- Game B, is one of the games hosted on the Website. It is a Kaboom jump-run-Jump educational music game, made to teach children aged 10 to 15 years old, the musical notes. In the game, a real piano was recorded 
@@ -29,3 +30,6 @@ npm run dev
 ```
 
 The website will be accessible at http://127.0.0.1:8000/  
+=======
+# KaboomGame2
+>>>>>>> 74d7743 (first commit)
