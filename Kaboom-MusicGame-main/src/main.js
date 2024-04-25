@@ -58,14 +58,14 @@ loadSound("powerup", "./sprites/sounds/powerup.mp3");
 loadSound("blip", "./sprites/sounds/blip.mp3");
 loadSound("hit", "./sprites/sounds/hit.mp3");
 loadSound("portal", "./sprites/sounds/portal.mp3");
-loadSound("Do", "./sprites/sounds/C.mp3");
-loadSound("Re", "./sprites/sounds/D.mp3");
-loadSound("Mi", "./sprites/sounds/E.mp3");
-loadSound("Fa", "./sprites/sounds/F.mp3");
-loadSound("Sol", "./sprites/sounds/G.mp3");
-loadSound("La", "./sprites/sounds/A.mp3");
-loadSound("Si", "./sprites/sounds/B.mp3");
-loadSound("Do2", "./sprites/sounds/C2.mp3");
+loadSound("Do", "./sprites/sounds/C.mov");
+loadSound("Re", "./sprites/sounds/D.mov");
+loadSound("Mi", "./sprites/sounds/E.mov");
+loadSound("Fa", "./sprites/sounds/F.mov");
+loadSound("Sol", "./sprites/sounds/G.mov");
+loadSound("La", "./sprites/sounds/A.mov");
+loadSound("Si", "./sprites/sounds/B.mov");
+loadSound("Do2", "./sprites/sounds/C2.mov");
 
 setGravity(3200);
 
